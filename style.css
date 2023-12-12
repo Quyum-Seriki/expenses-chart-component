@@ -13,11 +13,11 @@ body {
 
 header {
     margin: 0 auto;
-    width: 30%;
+    width: 27%;
     display: grid;
     grid-template-columns: auto auto;
     gap: 70px;
-    /* margin-top: 10rem; */
+    margin-top: 5rem;
     padding: 20px 0;
     background-color: hsl(10, 79%, 65%);
     border-radius: 15px;
@@ -39,7 +39,7 @@ header div:last-child {
 
 section {
     margin: 0 auto;
-    width: 30%;
+    width: 27%;
     background-color: #ffffff;
     border-radius: 20px;
     margin-top: 20px;
@@ -60,7 +60,7 @@ section {
     width: 50%;
     align-items: end;
     text-align: center;
-    gap: 18%;
+    gap: 14%;
     margin-left: 15px;
     height: 13rem;
 }
@@ -146,7 +146,7 @@ section {
 }
 
 hr {
-    margin: 50px 0 50px 30px;
+    margin: 50px 0 20px 30px;
     width: 90%;
     opacity: 0.3;
 }
@@ -169,7 +169,7 @@ hr {
 }
 
 .col3 div:first-of-type h1 {
-    font-size: 50px;
+    font-size: 40px;
     color: hsl(25, 47%, 15%);
 }
 
@@ -180,7 +180,10 @@ hr {
 
 .col3 div:last-of-type h3 {
     color: hsl(25, 47%, 15%);
-    font-size: 23px;
+    font-size: 20px;
+}
+.col3 div:last-of-type p{
+    font-size: 20px;
 }
 .last{
     text-align: center;
