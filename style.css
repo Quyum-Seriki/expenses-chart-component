@@ -17,7 +17,7 @@ header {
     display: grid;
     grid-template-columns: auto auto;
     gap: 70px;
-    margin-top: 10rem;
+    /* margin-top: 10rem; */
     padding: 20px 0;
     background-color: hsl(10, 79%, 65%);
     border-radius: 15px;
@@ -73,7 +73,7 @@ section {
 
 .col2-3 {
     background-color: hsl(186, 34%, 60%);
-    width: 50px;
+    width: 40px;
     border-radius: 10px;
     cursor: pointer;
     height: 9.5em;
@@ -86,7 +86,7 @@ section {
 .col2-6,
 .col2-7 {
     background-color: hsl(10, 79%, 65%);
-    width: 50px;
+    width: 40px;
     border-radius: 10px;
     cursor: pointer;
 }
