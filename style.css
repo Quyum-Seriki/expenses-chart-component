@@ -194,7 +194,7 @@ hr {
 .last a{
     text-decoration: none;
 }
-@media (min-width:375px) and (max-width: 768px){
+@media (min-width:300px) and (max-width: 768px){
     section,header{
         width: 90%;
     }
