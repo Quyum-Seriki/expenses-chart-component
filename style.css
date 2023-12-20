@@ -204,6 +204,9 @@ hr {
     header {
         width: 98%;
     }
+    header{
+        margin-top: 2em;
+    }
 
     .col2-1,
     .col2-2,
